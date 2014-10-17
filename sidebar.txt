@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mor:home|Door43 (mor)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mor|d43-mor repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mor/archive/master.zip|d43-mor.zip]]
+
+**Recent Changes**
+{{changes>ns = mor}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mor|Ethnologue data]]
+
